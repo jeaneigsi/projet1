@@ -1,5 +1,3 @@
-# jsmastery-ecommerce
-
 [Image d'une boutique en ligne]
 
 **Application de commerce électronique simple et facile à utiliser**
